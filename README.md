@@ -58,7 +58,7 @@ I am a dedicated **Frontend Developer** with a deep interest in building modern,
 ### 📫 Connect with Me
 - 🌐 **Portfolio:** [Visit My Projects](https://clever-donut-91eb9e.netlify.app/)
 - 📧 **Email:** [rafiqulislam58@gmail.com](mailto:rafiqulislam58@gmail.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rafiqul-islam-raj-9212403b0/
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
