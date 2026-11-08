@@ -1,22 +1,48 @@
 # 🚀 Rafiqul Islam Raj | Full-Stack Developer
 
 <!-- ================= HERO SECTION ================= -->
+<!-- =============== PREMIUM ANIMATED HERO =============== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050816,40:312e81,100:06b6d4&height=300&section=header&text=Rafiqul%20Islam%20Raj&fontSize=58&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%20%7C%20MERN%20STACK&descSize=18&descAlignY=62" width="100%" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,35:1e1b4b,70:312e81,100:0891b2&height=15&section=header" />
+</p>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=80&lines=RAFIQUL+ISLAM+RAJ" alt="Animated Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=850&height=50&lines=FULL+STACK+WEB+DEVELOPER;MERN+STACK+ENGINEER;BACKEND+DEVELOPMENT+ENTHUSIAST;BUILDING+THE+FUTURE+WITH+CODE" alt="Animated Developer Titles" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/BASED_IN-BANGLADESH-00D9FF?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/ROLE-FULL_STACK_DEVELOPER-A78BFA?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-00C896?style=for-the-badge&labelColor=020617" />
+
+<br/><br/>
+
+<img width="78%" src="https://github.com/h6ahmed/h6ahmed/blob/main/assets/coding.gif?raw=true" alt="Developer coding at computer animation" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=750&height=35&lines=%3C+Turning+Ideas+Into+Digital+Reality+%2F%3E;%3C+Code.+Create.+Innovate.+Repeat.+%2F%3E" alt="Coding Motto" />
+
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,typescript,tailwind,docker&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=Hey%2C+I'm+Rafiqul+Islam+Raj+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;Backend+Engineering+Enthusiast+%E2%9A%A1;Building+Modern+Digital+Experiences+%E2%9C%A8" />
+  <img src="https://komarev.com/ghpvc/?username=rafiqul-islam-raj&style=for-the-badge&color=00D9FF&label=PROFILE+VISITORS" />
+  <img src="https://img.shields.io/github/followers/rafiqul-islam-raj?style=for-the-badge&color=7C3AED&logo=github&label=FOLLOWERS" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafiqul-islam-raj&style=for-the-badge&color=00d9ff&label=PROFILE+VISITORS" />
-  <img src="https://img.shields.io/github/followers/rafiqul-islam-raj?style=for-the-badge&color=7c3aed&logo=github&label=FOLLOWERS" />
-  <img src="https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-00c896?style=for-the-badge&logo=rocket" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:312e81,100:020617&height=5&section=header" />
 </p>
 
-<!-- ================= DEVELOPER ANIMATION ================= -->
+<!-- =============== END HERO =============== -->============ DEVELOPER ANIMATION ================= -->
 
 <table>
 <tr>
@@ -38,7 +64,7 @@ I love transforming ideas into real-world digital products through clean code, c
 - 🎯 Goal: Becoming a Professional Software Engineer
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="75%" align="center" valign="middle">
 
 <img src="https://github.com/h6ahmed/h6ahmed/blob/main/assets/coding.gif?raw=true" width="100%" alt="Developer Coding Animation" />
 
