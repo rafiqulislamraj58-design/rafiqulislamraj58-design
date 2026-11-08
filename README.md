@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rafiqul-islam-raj&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/rafiqul-islam-raj?label=Followers&style=for-the-badge&color=764ba2&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/rafiqul-islam-raj?style=for-the-badge&color=00d4ff&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-00d4ff?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to opportunities" />
   <img src="https://img.shields.io/badge/Location-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-4b0082?style=for-the-badge" alt="Bangladesh" />
 </p>
 
@@ -22,7 +22,7 @@
   <a href="mailto:rafiqulislam58@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:090979,50:4b0082,100:00d4ff&height=3&section=header" width="100%" alt="divider" /></p>
 
 ## 🧑‍💻 About Me
 
@@ -43,7 +43,7 @@ I build modern, responsive and scalable web apps with the **MERN stack**, and I 
 
 <br clear="both"/>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:090979,50:4b0082,100:00d4ff&height=3&section=header" width="100%" alt="divider" /></p>
 
 ## 🚀 Featured Projects
 
@@ -68,7 +68,7 @@ I build modern, responsive and scalable web apps with the **MERN stack**, and I 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">💭 Zen Z – Nostalgia & Memories</h3>
+<h3 align="center">💭 Zen Z – Nostalgia &amp; Memories</h3>
 <p align="center">
 <a href="https://gen-z-frontend-five.vercel.app/"><img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" /></a>
 </p>
@@ -80,13 +80,13 @@ I build modern, responsive and scalable web apps with the **MERN stack**, and I 
 <p align="center">
 <a href="https://skymart-brown.vercel.app/"><img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-F59E0B?style=for-the-badge&logo=vercel&logoColor=black" alt="Live demo" /></a>
 </p>
-<p align="center">A modern online shopping experience. <!-- TODO: replace with your real one-line description --></p>
+<p align="center">A modern online shopping experience.<!-- TODO: replace with your real one-line description --></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=react,vite,vercel" alt="Tech" /></p>
 </td>
 </tr>
 </table>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:090979,50:4b0082,100:00d4ff&height=3&section=header" width="100%" alt="divider" /></p>
 
 ## ⚡ Tech Stack
 
@@ -106,11 +106,9 @@ I build modern, responsive and scalable web apps with the **MERN stack**, and I 
 
 </div>
 
-<p align="center">System Design • Data Structures & Algorithms • Generative AI • DevOps & Cloud</p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:090979,50:4b0082,100:00d4ff&height=3&section=header" width="100%" alt="divider" /></p>
 
----
-
-## 🎯 2026 Roadmap
+## 🎯 Learning Roadmap
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-In%20Progress-000000?style=for-the-badge&logo=nextdotjs" alt="Next.js" />
@@ -119,7 +117,7 @@ I build modern, responsive and scalable web apps with the **MERN stack**, and I 
   <img src="https://img.shields.io/badge/AI%20Agents-Exploring-FF6EC7?style=for-the-badge" alt="AI Agents" />
 </p>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:090979,50:4b0082,100:00d4ff&height=3&section=header" width="100%" alt="divider" /></p>
 
 ## 📊 GitHub Stats
 
@@ -133,7 +131,7 @@ I build modern, responsive and scalable web apps with the **MERN stack**, and I 
 </p>
 
 <details>
-<summary>🏆 Trophies & Contribution Graph</summary>
+<summary>🏆 Trophies &amp; Contribution Graph</summary>
 <br/>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rafiqul-islam-raj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" alt="Trophies" />
@@ -153,7 +151,7 @@ I build modern, responsive and scalable web apps with the **MERN stack**, and I 
   </picture>
 </p>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:090979,50:4b0082,100:00d4ff&height=3&section=header" width="100%" alt="divider" /></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4b0082,100:00d4ff&height=120&section=footer" width="100%" alt="Footer wave" />
